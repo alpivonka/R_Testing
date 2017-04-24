@@ -1,4 +1,4 @@
-install.packages("devtools")
+
 library(devtools)
 install_github("ohdsi/SqlRender")
 install_github("ohdsi/DatabaseConnector")
